@@ -1,2 +1,2 @@
-#Introduccion a la Informatica🖥️🖥️
-Esta es mi mochila del viajero(individual)
+# Introduccion a la Informatica🖥️🖥️
+## Esta es mi mochila del viajero(individual)
