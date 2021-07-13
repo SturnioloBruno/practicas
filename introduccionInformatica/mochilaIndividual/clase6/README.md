@@ -1,0 +1,1 @@
+# Ejercicios de la clase 6 de Introduccion a la Informatica
