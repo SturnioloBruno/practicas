@@ -1,0 +1,46 @@
+dt{
+    font-weight: bold;
+}
+
+.section{
+    margin: 0 auto;
+    width: 70%;
+}
+
+header{
+    text-align: center;
+    margin-bottom: 6em;
+}
+
+h1,h2{
+    text-transform: uppercase;
+    color: #005677;
+    letter-spacing: .5em;
+    background-color: #C4C4C4;
+}
+
+span{
+    font-weight: bold;
+}
+
+footer{
+    text-align: center;
+    background-color: #005677;
+    margin-top: 6em;
+}
+
+.span_footer{
+    color: #FFFFFF;
+}
+
+.datos_personales{
+    font-style: italic;
+}
+
+dl{
+    margin-left: 4em;
+}
+
+ul{
+    margin-left: 1em;
+}
